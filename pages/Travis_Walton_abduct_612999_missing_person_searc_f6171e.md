@@ -17,7 +17,7 @@ show_ads: true
 description: Walton's disappearance entered police and search-party channels before it became a national UFO story.
 hero_summary: Walton's disappearance entered police and search-party channels before it became a national UFO story.
 layout: default
-permalink: /search/
+permalink: /search-6171e/
 sidebar_expanded_urls:
 - /travis-walton-abduction-1975/
 nav_short_title: Search
