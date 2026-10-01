@@ -234,6 +234,7 @@ next_link:
   short_title: Official Reports
   heading_title: What Do Official Reports Really Say About Nimitz?
 date: '2026-06-11 18:36:50 '
+last_modified_at: '2026-06-11 18:36:50 '
 header:
   og_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1.webp

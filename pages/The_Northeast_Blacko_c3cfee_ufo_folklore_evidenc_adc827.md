@@ -240,6 +240,7 @@ next_link:
   short_title: Sightings
   heading_title: What Did Witnesses See Near Syracuse?
 date: '2026-06-11 18:31:12 '
+last_modified_at: '2026-06-11 18:31:12 '
 header:
   og_image: /assets/images/The_Northeast_Blacko_c3cfee_ufo_folklore_evidenc_adc827-Illustration-1-social.jpg
   preview_image: /assets/images/The_Northeast_Blacko_c3cfee_ufo_folklore_evidenc_adc827-Illustration-1.webp

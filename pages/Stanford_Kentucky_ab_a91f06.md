@@ -750,6 +750,7 @@ next_link:
   permalink: /stephen-darbishire-photograph-1954/
   short_title: Darbishire UFO
 date: '2026-06-11 18:32:51 '
+last_modified_at: '2026-06-11 18:32:51 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06-overview-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06-overview.webp

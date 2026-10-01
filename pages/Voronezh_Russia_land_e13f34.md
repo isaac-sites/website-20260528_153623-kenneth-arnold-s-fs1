@@ -750,6 +750,7 @@ next_link:
   permalink: /walesville-incident-1954/
   short_title: Walesville
 date: '2026-06-11 18:34:33 '
+last_modified_at: '2026-06-11 18:34:33 '
 header:
   og_image: /assets/images/Voronezh_Russia_land_e13f34-overview-social.jpg
   preview_image: /assets/images/Voronezh_Russia_land_e13f34-overview.webp

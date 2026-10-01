@@ -234,6 +234,7 @@ next_link:
   short_title: The Pancakes
   heading_title: What Did The UFO Pancakes Really Show?
 date: '2026-06-11 18:29:35 '
+last_modified_at: '2026-06-11 18:29:35 '
 header:
   og_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-social.jpg
   preview_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1.webp

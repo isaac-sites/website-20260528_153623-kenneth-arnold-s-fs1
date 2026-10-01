@@ -240,6 +240,7 @@ next_link:
   short_title: The Witness
   heading_title: How Strong Was Nicolai's Testimony?
 date: '2026-06-11 18:32:45 '
+last_modified_at: '2026-06-11 18:32:45 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1.webp

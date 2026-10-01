@@ -750,6 +750,7 @@ next_link:
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
 date: '2026-06-11 18:25:49 '
+last_modified_at: '2026-06-11 18:25:49 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f-overview-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f-overview.webp

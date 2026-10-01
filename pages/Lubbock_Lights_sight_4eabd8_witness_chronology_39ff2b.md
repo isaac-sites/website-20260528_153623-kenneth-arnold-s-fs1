@@ -234,6 +234,7 @@ prev_link:
   short_title: Photos
   heading_title: Did the Famous Photos Prove Anything?
 date: '2026-06-11 18:28:11 '
+last_modified_at: '2026-06-11 18:28:11 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1.webp

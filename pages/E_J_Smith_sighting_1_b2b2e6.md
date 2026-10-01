@@ -750,6 +750,7 @@ next_link:
   permalink: /eagle-river-encounter-1961/
   short_title: Eagle River
 date: '2026-06-11 18:33:07 '
+last_modified_at: '2026-06-11 18:33:07 '
 header:
   og_image: /assets/images/E_J_Smith_sighting_1_b2b2e6-overview-social.jpg
   preview_image: /assets/images/E_J_Smith_sighting_1_b2b2e6-overview.webp

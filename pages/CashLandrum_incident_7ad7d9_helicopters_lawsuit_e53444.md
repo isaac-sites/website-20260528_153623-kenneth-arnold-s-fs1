@@ -234,6 +234,7 @@ next_link:
   short_title: Illness Claims
   heading_title: Was Cash Landrum Really Radiation Sickness?
 date: '2026-06-11 18:32:23 '
+last_modified_at: '2026-06-11 18:32:23 '
 header:
   og_image: /assets/images/CashLandrum_incident_7ad7d9_helicopters_lawsuit_e53444-Illustration-1-social.jpg
   preview_image: /assets/images/CashLandrum_incident_7ad7d9_helicopters_lawsuit_e53444-Illustration-1.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How Did Twenty Minutes Disappear?
 date: '2026-06-11 18:26:41 '
+last_modified_at: '2026-06-11 18:26:41 '
 header:
   og_image: /assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-1-social.jpg
   preview_image: /assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-1.webp

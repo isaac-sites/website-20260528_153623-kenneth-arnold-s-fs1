@@ -234,6 +234,7 @@ prev_link:
   short_title: Timeline
   heading_title: How the BOAC Sighting Unfolded
 date: '2026-06-11 18:29:39 '
+last_modified_at: '2026-06-11 18:29:39 '
 header:
   og_image: /assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1-social.jpg
   preview_image: /assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1.webp

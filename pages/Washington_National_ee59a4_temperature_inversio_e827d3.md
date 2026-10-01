@@ -234,6 +234,7 @@ next_link:
   short_title: July Timeline
   heading_title: How Two Weekends Became a UFO Crisis
 date: '2026-06-11 18:25:24 '
+last_modified_at: '2026-06-11 18:25:24 '
 header:
   og_image: /assets/images/Washington_National_ee59a4_temperature_inversio_e827d3-Illustration-1-social.jpg
   preview_image: /assets/images/Washington_National_ee59a4_temperature_inversio_e827d3-Illustration-1.webp

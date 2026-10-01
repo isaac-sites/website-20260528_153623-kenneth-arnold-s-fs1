@@ -234,6 +234,7 @@ next_link:
   short_title: Skeptics
   heading_title: Could the Walton Case Have Been Staged?
 date: '2026-06-11 18:25:42 '
+last_modified_at: '2026-06-11 18:25:42 '
 header:
   og_image: /assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-1.webp

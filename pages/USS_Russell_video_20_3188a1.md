@@ -752,6 +752,7 @@ next_link:
   permalink: /uss-theodore-roosevelt-gimbal-video-2015/
   short_title: Gimbal UAP
 date: '2026-06-11 18:39:23 '
+last_modified_at: '2026-06-11 18:39:23 '
 header:
   og_image: /assets/images/USS_Russell_video_20_3188a1-overview-social.jpg
   preview_image: /assets/images/USS_Russell_video_20_3188a1-overview.webp

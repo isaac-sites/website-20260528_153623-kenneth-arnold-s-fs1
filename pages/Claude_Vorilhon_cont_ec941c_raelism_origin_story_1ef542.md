@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: What Supposedly Happened at Puy de Lassolas?
 date: '2026-06-11 18:34:48 '
+last_modified_at: '2026-06-11 18:34:48 '
 header:
   og_image: /assets/images/Claude_Vorilhon_cont_ec941c_raelism_origin_story_1ef542-Illustration-1-social.jpg
   preview_image: /assets/images/Claude_Vorilhon_cont_ec941c_raelism_origin_story_1ef542-Illustration-1.webp

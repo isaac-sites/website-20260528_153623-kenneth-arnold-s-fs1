@@ -234,6 +234,7 @@ prev_link:
   short_title: Skeptical Analysis
   heading_title: Debris or UFO? Expert Analyses of Gemini 7 Sighting
 date: '2026-06-11 18:34:32 '
+last_modified_at: '2026-06-11 18:34:32 '
 header:
   og_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1.webp

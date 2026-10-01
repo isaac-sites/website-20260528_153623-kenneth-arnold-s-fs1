@@ -750,6 +750,7 @@ next_link:
   permalink: /fatima-apparition-1917/
   short_title: Fatima
 date: '2026-06-11 18:36:17 '
+last_modified_at: '2026-06-11 18:36:17 '
 header:
   og_image: /assets/images/Farmington_sightings_46c4ec-overview-social.jpg
   preview_image: /assets/images/Farmington_sightings_46c4ec-overview.webp

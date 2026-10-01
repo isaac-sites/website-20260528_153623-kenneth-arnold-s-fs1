@@ -234,6 +234,7 @@ prev_link:
   short_title: Hoax Case
   heading_title: Was Cedric Allingham a Made Up Witness?
 date: '2026-06-11 18:34:13 '
+last_modified_at: '2026-06-11 18:34:13 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b_lossiemouth_claim_466c80-Illustration-1-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b_lossiemouth_claim_466c80-Illustration-1.webp

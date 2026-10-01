@@ -750,6 +750,7 @@ next_link:
   permalink: /jal-1628-sighting-over-alaska-1986/
   short_title: JAL 1628
 date: '2026-06-11 18:32:15 '
+last_modified_at: '2026-06-11 18:32:15 '
 header:
   og_image: /assets/images/Incident_at_Exeter_1_781528-overview-social.jpg
   preview_image: /assets/images/Incident_at_Exeter_1_781528-overview.webp

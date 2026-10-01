@@ -234,6 +234,7 @@ prev_link:
   short_title: Hypnosis
   heading_title: Can the Ausso One Story Be Trusted?
 date: '2026-06-11 18:32:37 '
+last_modified_at: '2026-06-11 18:32:37 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-1-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-1.webp

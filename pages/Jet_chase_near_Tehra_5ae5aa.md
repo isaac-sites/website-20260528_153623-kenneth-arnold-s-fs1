@@ -750,6 +750,7 @@ next_link:
   permalink: /jimmy-carter-sighting-1969/
   short_title: Carter UFO
 date: '2026-06-11 18:29:42 '
+last_modified_at: '2026-06-11 18:29:42 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview.webp

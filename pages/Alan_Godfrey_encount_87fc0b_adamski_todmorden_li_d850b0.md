@@ -234,6 +234,7 @@ prev_link:
   short_title: Road Sighting
   heading_title: How Strong Is the Burnley Road Sighting?
 date: '2026-06-11 18:30:34 '
+last_modified_at: '2026-06-11 18:30:34 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b_adamski_todmorden_li_d850b0-Illustration-1-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b_adamski_todmorden_li_d850b0-Illustration-1.webp

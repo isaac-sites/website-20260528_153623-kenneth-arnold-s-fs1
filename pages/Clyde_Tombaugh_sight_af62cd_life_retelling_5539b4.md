@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Account
   heading_title: Why Tombaugh's Testimony Still Matters
 date: '2026-06-11 18:29:21 '
+last_modified_at: '2026-06-11 18:29:21 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-1-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-1.webp

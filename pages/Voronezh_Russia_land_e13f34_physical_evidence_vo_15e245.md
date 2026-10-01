@@ -234,6 +234,7 @@ prev_link:
   short_title: Official & Scientific
   heading_title: How Scientists and Officials Responded to the Voronezh UFO Reports
 date: '2026-06-11 18:34:38 '
+last_modified_at: '2026-06-11 18:34:38 '
 header:
   og_image: /assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1-social.jpg
   preview_image: /assets/images/Voronezh_Russia_land_e13f34_physical_evidence_vo_15e245-Illustration-1.webp

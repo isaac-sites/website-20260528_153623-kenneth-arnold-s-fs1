@@ -240,6 +240,7 @@ next_link:
   short_title: Witnesses
   heading_title: How Strong Were Adamski's Witnesses?
 date: '2026-06-11 18:24:38 '
+last_modified_at: '2026-06-11 18:24:38 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1.webp

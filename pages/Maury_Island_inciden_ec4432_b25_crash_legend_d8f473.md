@@ -234,6 +234,7 @@ next_link:
   short_title: Debris Trail
   heading_title: Was the Maury Island Debris Ever Evidence?
 date: '2026-06-11 18:25:45 '
+last_modified_at: '2026-06-11 18:25:45 '
 header:
   og_image: /assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1-social.jpg
   preview_image: /assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1.webp

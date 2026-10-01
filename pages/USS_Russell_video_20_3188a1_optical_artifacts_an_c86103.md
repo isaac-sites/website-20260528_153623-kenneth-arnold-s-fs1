@@ -234,6 +234,7 @@ prev_link:
   short_title: Event Chronology
   heading_title: Timeline and Official Records of USS Russell Drone Encounters
 date: '2026-06-11 18:39:31 '
+last_modified_at: '2026-06-11 18:39:31 '
 header:
   og_image: /assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1.webp

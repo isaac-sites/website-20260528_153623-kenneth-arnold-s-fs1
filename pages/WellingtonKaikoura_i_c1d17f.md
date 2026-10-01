@@ -750,6 +750,7 @@ next_link:
   permalink: /were-the-1967-ummo-photographs-real-or-a/
   short_title: Ummo Photos
 date: '2026-06-11 18:30:39 '
+last_modified_at: '2026-06-11 18:30:39 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f-overview-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f-overview.webp

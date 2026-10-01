@@ -234,6 +234,7 @@ next_link:
   short_title: Radio Trail
   heading_title: How Did Flight 19 Get Lost?
 date: '2026-06-11 18:29:49 '
+last_modified_at: '2026-06-11 18:29:49 '
 header:
   og_image: /assets/images/Flight_19_incident_1_5cc889_official_cause_unkno_b22297-Illustration-1-social.jpg
   preview_image: /assets/images/Flight_19_incident_1_5cc889_official_cause_unkno_b22297-Illustration-1.webp

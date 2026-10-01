@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Trail
   heading_title: Who Really Saw the Ubatuba Explosion?
 date: '2026-06-11 18:27:33 '
+last_modified_at: '2026-06-11 18:27:33 '
 header:
   og_image: /assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1-social.jpg
   preview_image: /assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1.webp

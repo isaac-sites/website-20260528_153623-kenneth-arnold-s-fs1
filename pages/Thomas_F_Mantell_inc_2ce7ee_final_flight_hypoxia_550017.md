@@ -240,6 +240,7 @@ next_link:
   short_title: Witnesses
   heading_title: Why the Witnesses Did Not End the Mystery
 date: '2026-06-11 18:25:16 '
+last_modified_at: '2026-06-11 18:25:16 '
 header:
   og_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_final_flight_hypoxia_550017-Illustration-1-social.jpg
   preview_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_final_flight_hypoxia_550017-Illustration-1.webp

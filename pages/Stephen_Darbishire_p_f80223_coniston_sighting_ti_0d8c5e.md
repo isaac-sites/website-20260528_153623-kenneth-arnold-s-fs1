@@ -232,6 +232,7 @@ prev_link:
   short_title: Photo Evidence
   heading_title: What the Darbishire Photographs Reveal—and Conceal
 date: '2026-06-11 18:35:46 '
+last_modified_at: '2026-06-11 18:35:46 '
 header:
   og_image: /assets/images/Stephen_Darbishire_p_f80223_coniston_sighting_ti_0d8c5e-Illustration-1-social.jpg
   preview_image: /assets/images/Stephen_Darbishire_p_f80223_coniston_sighting_ti_0d8c5e-Illustration-1.webp

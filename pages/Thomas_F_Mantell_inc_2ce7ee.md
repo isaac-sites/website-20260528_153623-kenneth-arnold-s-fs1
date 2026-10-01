@@ -750,6 +750,7 @@ next_link:
   permalink: /topcliffe-incident-1952/
   short_title: Topcliffe UFO
 date: '2026-06-11 18:25:11 '
+last_modified_at: '2026-06-11 18:25:11 '
 header:
   og_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee-overview-social.jpg
   preview_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee-overview.webp

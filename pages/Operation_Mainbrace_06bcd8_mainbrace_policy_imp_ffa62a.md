@@ -234,6 +234,7 @@ next_link:
   short_title: Topcliffe Sighting
   heading_title: How Did the RAF Topcliffe UFO Encounter Unfold?
 date: '2026-06-11 18:35:41 '
+last_modified_at: '2026-06-11 18:35:41 '
 header:
   og_image: /assets/images/Operation_Mainbrace_06bcd8_mainbrace_policy_imp_ffa62a-Illustration-1-social.jpg
   preview_image: /assets/images/Operation_Mainbrace_06bcd8_mainbrace_policy_imp_ffa62a-Illustration-1.webp

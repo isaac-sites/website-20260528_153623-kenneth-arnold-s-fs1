@@ -750,6 +750,7 @@ next_link:
   permalink: /great-falls-montana-film-1950/
   short_title: Great Falls UFO
 date: '2026-06-11 18:28:19 '
+last_modified_at: '2026-06-11 18:28:19 '
 header:
   og_image: /assets/images/Gorman_dogfight_near_aac8f7-overview-social.jpg
   preview_image: /assets/images/Gorman_dogfight_near_aac8f7-overview.webp

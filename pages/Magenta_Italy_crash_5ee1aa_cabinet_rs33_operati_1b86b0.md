@@ -234,6 +234,7 @@ next_link:
   short_title: Evidence & Documents
   heading_title: What Evidence Supports the Magenta Crash Claims?
 date: '2026-06-11 18:37:35 '
+last_modified_at: '2026-06-11 18:37:35 '
 header:
   og_image: /assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1-social.jpg
   preview_image: /assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1.webp

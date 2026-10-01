@@ -238,6 +238,7 @@ next_link:
   short_title: US & Vatican
   heading_title: How Did the Magenta Object Allegedly Reach the US?
 date: '2026-06-11 18:37:34 '
+last_modified_at: '2026-06-11 18:37:34 '
 header:
   og_image: /assets/images/Magenta_Italy_crash_5ee1aa_magenta_documentary_ae06ee-Illustration-1-social.jpg
   preview_image: /assets/images/Magenta_Italy_crash_5ee1aa_magenta_documentary_ae06ee-Illustration-1.webp

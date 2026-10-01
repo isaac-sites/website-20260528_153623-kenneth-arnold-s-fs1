@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: Where Did Higdon's Missing Hours Go?
 date: '2026-06-11 18:32:36 '
+last_modified_at: '2026-06-11 18:32:36 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1.webp

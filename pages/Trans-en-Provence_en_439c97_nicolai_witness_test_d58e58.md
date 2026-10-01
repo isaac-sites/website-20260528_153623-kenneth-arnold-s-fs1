@@ -234,6 +234,7 @@ prev_link:
   short_title: The Traces
   heading_title: Did the Physical Traces Prove Anything?
 date: '2026-06-11 18:32:43 '
+last_modified_at: '2026-06-11 18:32:43 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1.webp

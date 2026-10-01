@@ -234,6 +234,7 @@ prev_link:
   short_title: Final Flight
   heading_title: How the Pursuit Became a Fatal Crash
 date: '2026-06-11 18:25:19 '
+last_modified_at: '2026-06-11 18:25:19 '
 header:
   og_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-1-social.jpg
   preview_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-1.webp
