@@ -234,6 +234,7 @@ prev_link:
   short_title: I 94 Timeline
   heading_title: The Missing Hour on Interstate 94
 date: '2026-06-11 18:36:16 '
+last_modified_at: '2026-06-11 18:36:16 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1.webp

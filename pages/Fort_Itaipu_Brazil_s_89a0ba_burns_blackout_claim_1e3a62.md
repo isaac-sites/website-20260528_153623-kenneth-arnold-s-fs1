@@ -234,6 +234,7 @@ next_link:
   short_title: Later Checks
   heading_title: How Did a Sighting Become a Legend?
 date: '2026-06-11 18:33:23 '
+last_modified_at: '2026-06-11 18:33:23 '
 header:
   og_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_burns_blackout_claim_1e3a62-Illustration-1-social.jpg
   preview_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_burns_blackout_claim_1e3a62-Illustration-1.webp

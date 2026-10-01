@@ -750,6 +750,7 @@ next_link:
   permalink: /stanford-kentucky-abduction-1976/
   short_title: Stanford Abduction
 date: '2026-06-11 18:33:29 '
+last_modified_at: '2026-06-11 18:33:29 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview.webp

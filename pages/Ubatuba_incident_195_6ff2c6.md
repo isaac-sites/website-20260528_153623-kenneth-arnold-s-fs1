@@ -750,6 +750,7 @@ next_link:
   permalink: /uss-nimitz-tic-tac-video-2004/
   short_title: Nimitz UAP
 date: '2026-06-11 18:27:29 '
+last_modified_at: '2026-06-11 18:27:29 '
 header:
   og_image: /assets/images/Ubatuba_incident_195_6ff2c6-overview-social.jpg
   preview_image: /assets/images/Ubatuba_incident_195_6ff2c6-overview.webp

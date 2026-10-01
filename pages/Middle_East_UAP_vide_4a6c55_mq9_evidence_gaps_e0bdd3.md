@@ -240,6 +240,7 @@ next_link:
   short_title: Official View
   heading_title: Why AARO Left the Orb Unidentified
 date: '2026-06-11 18:39:20 '
+last_modified_at: '2026-06-11 18:39:20 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1.webp

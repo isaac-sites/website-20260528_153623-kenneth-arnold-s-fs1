@@ -750,6 +750,7 @@ next_link:
   permalink: /day-family-abduction-1974/
   short_title: Aveley Abduction
 date: '2026-06-11 18:34:39 '
+last_modified_at: '2026-06-11 18:34:39 '
 header:
   og_image: /assets/images/Cynthia_Appleton_enc_304111-overview-social.jpg
   preview_image: /assets/images/Cynthia_Appleton_enc_304111-overview.webp

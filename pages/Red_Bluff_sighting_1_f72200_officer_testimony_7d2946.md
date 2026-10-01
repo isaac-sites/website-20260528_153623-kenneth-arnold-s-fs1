@@ -240,6 +240,7 @@ next_link:
   short_title: Radar
   heading_title: Was Red Bluff Ever Seen on Radar?
 date: '2026-06-11 18:35:59 '
+last_modified_at: '2026-06-11 18:35:59 '
 header:
   og_image: /assets/images/Red_Bluff_sighting_1_f72200_officer_testimony_7d2946-Illustration-1-social.jpg
   preview_image: /assets/images/Red_Bluff_sighting_1_f72200_officer_testimony_7d2946-Illustration-1.webp

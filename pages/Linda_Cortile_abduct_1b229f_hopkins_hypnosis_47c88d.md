@@ -234,6 +234,7 @@ next_link:
   short_title: Implant
   heading_title: Was There Any Physical Evidence?
 date: '2026-06-11 18:30:14 '
+last_modified_at: '2026-06-11 18:30:14 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1.webp

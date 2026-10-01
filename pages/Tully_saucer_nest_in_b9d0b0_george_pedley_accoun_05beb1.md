@@ -234,6 +234,7 @@ prev_link:
   short_title: Physical Trace
   heading_title: Investigating the Tully Saucer Nest Formation
 date: '2026-06-11 18:36:31 '
+last_modified_at: '2026-06-11 18:36:31 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1.webp

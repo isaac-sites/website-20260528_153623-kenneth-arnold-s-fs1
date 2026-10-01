@@ -234,6 +234,7 @@ next_link:
   short_title: Traces
   heading_title: Did the Landing Marks Prove Anything?
 date: '2026-06-11 18:25:04 '
+last_modified_at: '2026-06-11 18:25:04 '
 header:
   og_image: /assets/images/Socorro_sighting_by_961b47_official_skeptical_e_c11901-Illustration-1-social.jpg
   preview_image: /assets/images/Socorro_sighting_by_961b47_official_skeptical_e_c11901-Illustration-1.webp

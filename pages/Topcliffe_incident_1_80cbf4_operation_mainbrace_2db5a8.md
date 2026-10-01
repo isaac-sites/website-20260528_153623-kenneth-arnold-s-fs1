@@ -234,6 +234,7 @@ prev_link:
   short_title: Eyewitness Reports
   heading_title: Who Saw the Topcliffe UFO and What Did They Report?
 date: '2026-06-11 18:34:17 '
+last_modified_at: '2026-06-11 18:34:17 '
 header:
   og_image: /assets/images/Topcliffe_incident_1_80cbf4_operation_mainbrace_2db5a8-Illustration-1-social.jpg
   preview_image: /assets/images/Topcliffe_incident_1_80cbf4_operation_mainbrace_2db5a8-Illustration-1.webp

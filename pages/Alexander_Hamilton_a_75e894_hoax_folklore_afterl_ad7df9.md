@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: What Did Hamilton Say Happened That Night?
 date: '2026-06-11 18:26:59 '
+last_modified_at: '2026-06-11 18:26:59 '
 header:
   og_image: /assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-1-social.jpg
   preview_image: /assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-1.webp

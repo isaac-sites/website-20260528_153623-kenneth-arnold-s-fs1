@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: When Did the Gemini Sighting Happen?
 date: '2026-06-11 18:27:23 '
+last_modified_at: '2026-06-11 18:27:23 '
 header:
   og_image: /assets/images/Gemini_4_sighting_19_9c351d_photo_testimony_d90c74-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_4_sighting_19_9c351d_photo_testimony_d90c74-Illustration-1.webp

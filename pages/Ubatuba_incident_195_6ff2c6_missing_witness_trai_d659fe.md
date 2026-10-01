@@ -234,6 +234,7 @@ prev_link:
   short_title: Official Review
   heading_title: How Official Investigators Read the Ubatuba Evidence
 date: '2026-06-11 18:27:58 '
+last_modified_at: '2026-06-11 18:27:58 '
 header:
   og_image: /assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Illustration-1-social.jpg
   preview_image: /assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Illustration-1.webp

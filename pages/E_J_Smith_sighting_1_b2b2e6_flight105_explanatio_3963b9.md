@@ -240,6 +240,7 @@ next_link:
   short_title: Official Records
   heading_title: What Air Materiel Command Concluded About Flight 105
 date: '2026-06-11 18:33:10 '
+last_modified_at: '2026-06-11 18:33:10 '
 header:
   og_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_explanatio_3963b9-Illustration-1-social.jpg
   preview_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_explanatio_3963b9-Illustration-1.webp

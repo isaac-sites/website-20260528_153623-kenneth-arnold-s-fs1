@@ -234,6 +234,7 @@ next_link:
   short_title: Photo Custody
   heading_title: Can the Trindade Photos Survive the Custody Problem?
 date: '2026-06-11 18:27:12 '
+last_modified_at: '2026-06-11 18:27:12 '
 header:
   og_image: /assets/images/Trindade_Island_phot_726a39_barauna_hoax_debate_94ec10-Illustration-1-social.jpg
   preview_image: /assets/images/Trindade_Island_phot_726a39_barauna_hoax_debate_94ec10-Illustration-1.webp

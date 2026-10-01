@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How the Snippy Story Took Shape
 date: '2026-06-11 18:29:56 '
+last_modified_at: '2026-06-11 18:29:56 '
 header:
   og_image: /assets/images/Lady_animal_mutilati_ea7340_mutilation_folklore_4cd60d-Illustration-1-social.jpg
   preview_image: /assets/images/Lady_animal_mutilati_ea7340_mutilation_folklore_4cd60d-Illustration-1.webp

@@ -234,6 +234,7 @@ next_link:
   short_title: Soil Evidence
   heading_title: Why the Soil Ring Still Matters
 date: '2026-06-11 18:31:06 '
+last_modified_at: '2026-06-11 18:31:06 '
 header:
   og_image: /assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1.webp

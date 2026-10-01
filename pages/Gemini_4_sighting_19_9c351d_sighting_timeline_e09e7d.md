@@ -234,6 +234,7 @@ prev_link:
   short_title: Photo Evidence
   heading_title: Did the Photo Prove Anything?
 date: '2026-06-11 18:27:26 '
+last_modified_at: '2026-06-11 18:27:26 '
 header:
   og_image: /assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1.webp

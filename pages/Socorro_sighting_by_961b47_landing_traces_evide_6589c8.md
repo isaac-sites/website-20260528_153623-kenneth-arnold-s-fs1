@@ -240,6 +240,7 @@ next_link:
   short_title: Zamora
   heading_title: How Reliable Was Lonnie Zamora?
 date: '2026-06-11 18:25:01 '
+last_modified_at: '2026-06-11 18:25:01 '
 header:
   og_image: /assets/images/Socorro_sighting_by_961b47_landing_traces_evide_6589c8-Illustration-1-social.jpg
   preview_image: /assets/images/Socorro_sighting_by_961b47_landing_traces_evide_6589c8-Illustration-1.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Photo Analysis
   heading_title: Could the 1967 Ummo Photographs Have Been Staged?
 date: '2026-06-11 18:35:33 '
+last_modified_at: '2026-06-11 18:35:33 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563_valderas_sighting_ti_2a05be-Illustration-1.webp

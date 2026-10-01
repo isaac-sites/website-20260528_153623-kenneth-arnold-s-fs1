@@ -750,6 +750,7 @@ next_link:
   permalink: /jet-chase-near-tehran-iran-1976/
   short_title: Tehran UFO
 date: '2026-06-11 18:35:34 '
+last_modified_at: '2026-06-11 18:35:34 '
 header:
   og_image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview-social.jpg
   preview_image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview.webp

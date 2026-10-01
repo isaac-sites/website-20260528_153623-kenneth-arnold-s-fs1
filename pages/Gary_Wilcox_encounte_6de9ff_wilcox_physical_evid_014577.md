@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Credibility
   heading_title: Evaluating Gary Wilcox's Credibility and Mental State
 date: '2026-06-11 18:33:28 '
+last_modified_at: '2026-06-11 18:33:28 '
 header:
   og_image: /assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-1-social.jpg
   preview_image: /assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-1.webp

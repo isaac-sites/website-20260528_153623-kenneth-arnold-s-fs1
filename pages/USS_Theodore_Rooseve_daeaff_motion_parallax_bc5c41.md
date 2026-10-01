@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How Go Fast Became a Public UAP Case
 date: '2026-06-11 18:38:03 '
+last_modified_at: '2026-06-11 18:38:03 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_daeaff_motion_parallax_bc5c41-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_daeaff_motion_parallax_bc5c41-Illustration-1.webp

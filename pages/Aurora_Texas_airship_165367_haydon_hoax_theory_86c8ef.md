@@ -240,6 +240,7 @@ next_link:
   short_title: Missing Proof
   heading_title: What Evidence Is Missing in Aurora?
 date: '2026-06-11 18:32:27 '
+last_modified_at: '2026-06-11 18:32:27 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1.webp

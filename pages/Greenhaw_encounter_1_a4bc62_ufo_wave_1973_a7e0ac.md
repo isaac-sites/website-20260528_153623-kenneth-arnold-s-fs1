@@ -234,6 +234,7 @@ next_link:
   short_title: Greenhaw
   heading_title: Was Jeff Greenhaw a Reliable Witness?
 date: '2026-06-11 18:30:07 '
+last_modified_at: '2026-06-11 18:30:07 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62_ufo_wave_1973_a7e0ac-Illustration-1-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62_ufo_wave_1973_a7e0ac-Illustration-1.webp

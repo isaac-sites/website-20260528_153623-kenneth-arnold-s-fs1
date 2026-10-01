@@ -240,6 +240,7 @@ next_link:
   short_title: Photographic Evidence
   heading_title: What Do the 1883 Bonilla Photographs Show?
 date: '2026-06-11 18:34:56 '
+last_modified_at: '2026-06-11 18:34:56 '
 header:
   og_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1-social.jpg
   preview_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_object_hypot_d23991-Illustration-1.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Timeline
   heading_title: How the Boianai Sightings Unfolded
 date: '2026-06-11 18:31:44 '
+last_modified_at: '2026-06-11 18:31:44 '
 header:
   og_image: /assets/images/Reverend_W_B_Gill_si_c31d68_witness_testimony_0307ed-Illustration-1-social.jpg
   preview_image: /assets/images/Reverend_W_B_Gill_si_c31d68_witness_testimony_0307ed-Illustration-1.webp

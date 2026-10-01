@@ -750,6 +750,7 @@ next_link:
   permalink: /gorman-dogfight-near-fargo-1948/
   short_title: Gorman Dogfight
 date: '2026-06-11 18:33:59 '
+last_modified_at: '2026-06-11 18:33:59 '
 header:
   og_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview-social.jpg
   preview_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview.webp

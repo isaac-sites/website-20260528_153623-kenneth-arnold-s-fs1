@@ -240,6 +240,7 @@ next_link:
   short_title: Trace Evidence
   heading_title: Why Did the Physical Evidence Matter?
 date: '2026-06-11 18:32:58 '
+last_modified_at: '2026-06-11 18:32:58 '
 header:
   og_image: /assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1-social.jpg
   preview_image: /assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1.webp

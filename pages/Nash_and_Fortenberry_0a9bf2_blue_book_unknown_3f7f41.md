@@ -234,6 +234,7 @@ next_link:
   short_title: Pilot Report
   heading_title: What Did the Pilots Actually See?
 date: '2026-06-11 18:29:30 '
+last_modified_at: '2026-06-11 18:29:30 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-1-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-1.webp

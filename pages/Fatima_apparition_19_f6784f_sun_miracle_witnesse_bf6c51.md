@@ -240,6 +240,7 @@ next_link:
   short_title: The Children
   heading_title: How Reliable Were the Fatima Children?
 date: '2026-06-11 18:28:52 '
+last_modified_at: '2026-06-11 18:28:52 '
 header:
   og_image: /assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-1-social.jpg
   preview_image: /assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-1.webp

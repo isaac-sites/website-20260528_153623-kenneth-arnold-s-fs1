@@ -240,6 +240,7 @@ next_link:
   short_title: Witnesses
   heading_title: How Reliable Were the First Witnesses?
 date: '2026-06-11 18:28:10 '
+last_modified_at: '2026-06-11 18:28:10 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1.webp

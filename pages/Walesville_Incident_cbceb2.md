@@ -750,6 +750,7 @@ next_link:
   permalink: /washington-national-sightings-1952/
   short_title: Washington Saucers
 date: '2026-06-11 18:35:50 '
+last_modified_at: '2026-06-11 18:35:50 '
 header:
   og_image: /assets/images/Walesville_Incident_cbceb2-overview-social.jpg
   preview_image: /assets/images/Walesville_Incident_cbceb2-overview.webp

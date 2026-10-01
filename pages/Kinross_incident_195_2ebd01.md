@@ -750,6 +750,7 @@ next_link:
   permalink: /lady-animal-mutilation-1966/
   short_title: Snippy
 date: '2026-06-11 18:30:15 '
+last_modified_at: '2026-06-11 18:30:15 '
 header:
   og_image: /assets/images/Kinross_incident_195_2ebd01-overview-social.jpg
   preview_image: /assets/images/Kinross_incident_195_2ebd01-overview.webp

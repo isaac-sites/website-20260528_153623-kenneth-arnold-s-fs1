@@ -750,6 +750,7 @@ next_link:
   permalink: /gemini-7-sighting-1965/
   short_title: Gemini 7 Sighting
 date: '2026-06-11 18:27:19 '
+last_modified_at: '2026-06-11 18:27:19 '
 header:
   og_image: /assets/images/Gemini_4_sighting_19_9c351d-overview-social.jpg
   preview_image: /assets/images/Gemini_4_sighting_19_9c351d-overview.webp

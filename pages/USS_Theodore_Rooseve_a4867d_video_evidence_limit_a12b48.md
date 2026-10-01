@@ -234,6 +234,7 @@ prev_link:
   short_title: Pilot Claims
   heading_title: Why Navy Pilots Took Gimbal Seriously
 date: '2026-06-11 18:39:04 '
+last_modified_at: '2026-06-11 18:39:04 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1.webp

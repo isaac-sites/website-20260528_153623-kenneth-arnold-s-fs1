@@ -240,6 +240,7 @@ next_link:
   short_title: Ship Sighting
   heading_title: What Happened Aboard the Almirante Saldanha?
 date: '2026-06-11 18:27:15 '
+last_modified_at: '2026-06-11 18:27:15 '
 header:
   og_image: /assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1-social.jpg
   preview_image: /assets/images/Trindade_Island_phot_726a39_photo_custody_eviden_751393-Illustration-1.webp

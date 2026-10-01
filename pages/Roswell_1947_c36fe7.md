@@ -750,6 +750,7 @@ next_link:
   permalink: /salem-massachusetts-photograph-1952/
   short_title: Salem UFO Photo
 date: '2026-06-11 18:24:42 '
+last_modified_at: '2026-06-11 18:24:42 '
 header:
   og_image: /assets/images/Roswell_1947_c36fe7-overview-social.jpg
   preview_image: /assets/images/Roswell_1947_c36fe7-overview.webp

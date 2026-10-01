@@ -750,6 +750,7 @@ next_link:
   permalink: /truman-bethurum-contact-1954/
   short_title: Bethurum
 date: '2026-06-11 18:27:10 '
+last_modified_at: '2026-06-11 18:27:10 '
 header:
   og_image: /assets/images/Trindade_Island_phot_726a39-overview-social.jpg
   preview_image: /assets/images/Trindade_Island_phot_726a39-overview.webp

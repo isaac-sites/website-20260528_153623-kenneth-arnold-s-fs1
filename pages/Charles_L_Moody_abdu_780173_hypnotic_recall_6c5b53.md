@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How the Missing Time Story Unfolded
 date: '2026-06-11 18:36:04 '
+last_modified_at: '2026-06-11 18:36:04 '
 header:
   og_image: /assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-1.webp

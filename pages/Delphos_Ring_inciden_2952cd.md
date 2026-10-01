@@ -750,6 +750,7 @@ next_link:
   permalink: /desvergers-scoutmaster-sighting-1952/
   short_title: Desvergers
 date: '2026-06-11 18:31:02 '
+last_modified_at: '2026-06-11 18:31:02 '
 header:
   og_image: /assets/images/Delphos_Ring_inciden_2952cd-overview-social.jpg
   preview_image: /assets/images/Delphos_Ring_inciden_2952cd-overview.webp

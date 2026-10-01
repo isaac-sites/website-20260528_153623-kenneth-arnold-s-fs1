@@ -238,6 +238,7 @@ next_link:
   short_title: Physical Evidence
   heading_title: What Physical Evidence Was Claimed in Voronezh and Does It Hold Up?
 date: '2026-06-11 18:34:35 '
+last_modified_at: '2026-06-11 18:34:35 '
 header:
   og_image: /assets/images/Voronezh_Russia_land_e13f34_official_scientific_975a6c-Illustration-1-social.jpg
   preview_image: /assets/images/Voronezh_Russia_land_e13f34_official_scientific_975a6c-Illustration-1.webp

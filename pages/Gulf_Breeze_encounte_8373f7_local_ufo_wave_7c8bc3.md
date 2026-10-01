@@ -234,6 +234,7 @@ prev_link:
   short_title: Photos
   heading_title: Were the Polaroids Too Clear to Trust?
 date: '2026-06-11 18:26:52 '
+last_modified_at: '2026-06-11 18:26:52 '
 header:
   og_image: /assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-1-social.jpg
   preview_image: /assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-1.webp

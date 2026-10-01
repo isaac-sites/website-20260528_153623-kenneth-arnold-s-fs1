@@ -750,6 +750,7 @@ next_link:
   permalink: /fort-itaipu-brazil-sighting-1957/
   short_title: Fort Itaipu
 date: '2026-06-11 18:29:47 '
+last_modified_at: '2026-06-11 18:29:47 '
 header:
   og_image: /assets/images/Flight_19_incident_1_5cc889-overview-social.jpg
   preview_image: /assets/images/Flight_19_incident_1_5cc889-overview.webp

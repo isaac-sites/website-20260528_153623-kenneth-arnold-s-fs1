@@ -750,6 +750,7 @@ next_link:
   permalink: /tunguska-event-1908/
   short_title: Tunguska
 date: '2026-06-11 18:36:28 '
+last_modified_at: '2026-06-11 18:36:28 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0-overview-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0-overview.webp
