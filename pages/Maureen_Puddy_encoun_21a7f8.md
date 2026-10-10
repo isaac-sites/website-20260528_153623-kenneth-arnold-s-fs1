@@ -750,6 +750,7 @@ next_link:
   permalink: /maury-island-incident-1947/
   short_title: Maury Island
 date: '2026-06-11 18:33:54 '
+last_modified_at: '2026-06-11 18:33:54 '
 header:
   og_image: /assets/images/Maureen_Puddy_encoun_21a7f8-overview-social.jpg
   preview_image: /assets/images/Maureen_Puddy_encoun_21a7f8-overview.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How Did the Night Unfold?
 date: '2026-06-11 18:31:37 '
+last_modified_at: '2026-06-11 18:31:37 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1.webp

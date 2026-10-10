@@ -234,6 +234,7 @@ next_link:
   short_title: Evidence Gaps
   heading_title: What the MQ 9 Clip Still Cannot Tell US
 date: '2026-06-11 18:39:18 '
+last_modified_at: '2026-06-11 18:39:18 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1.webp

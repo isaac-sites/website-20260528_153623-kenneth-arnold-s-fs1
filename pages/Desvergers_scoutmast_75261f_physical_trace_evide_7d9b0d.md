@@ -234,6 +234,7 @@ prev_link:
   short_title: The Night
   heading_title: What Happened in the Palmetto Thicket?
 date: '2026-06-11 18:32:59 '
+last_modified_at: '2026-06-11 18:32:59 '
 header:
   og_image: /assets/images/Desvergers_scoutmast_75261f_physical_trace_evide_7d9b0d-Illustration-1-social.jpg
   preview_image: /assets/images/Desvergers_scoutmast_75261f_physical_trace_evide_7d9b0d-Illustration-1.webp

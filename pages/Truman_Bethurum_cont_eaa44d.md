@@ -750,6 +750,7 @@ next_link:
   permalink: /tully-saucer-nest-incident-1966/
   short_title: Tully UFO
 date: '2026-06-11 18:28:39 '
+last_modified_at: '2026-06-11 18:28:39 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d-overview-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d-overview.webp

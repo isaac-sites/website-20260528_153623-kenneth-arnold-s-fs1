@@ -240,6 +240,7 @@ next_link:
   short_title: Evidence
   heading_title: What Witnesses and Trees Reveal
 date: '2026-06-11 18:25:59 '
+last_modified_at: '2026-06-11 18:25:59 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1.webp

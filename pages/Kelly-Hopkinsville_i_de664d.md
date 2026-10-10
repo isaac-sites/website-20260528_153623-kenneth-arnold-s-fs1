@@ -750,6 +750,7 @@ next_link:
   permalink: /kenneth-arnold-s-first-sighting-1947/
   short_title: Arnold Sighting
 date: '2026-06-11 18:31:36 '
+last_modified_at: '2026-06-11 18:31:36 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview.webp

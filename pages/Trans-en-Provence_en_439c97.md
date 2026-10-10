@@ -750,6 +750,7 @@ next_link:
   permalink: /travis-walton-abduction-1975/
   short_title: Walton
 date: '2026-06-11 18:32:40 '
+last_modified_at: '2026-06-11 18:32:40 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97-overview-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97-overview.webp

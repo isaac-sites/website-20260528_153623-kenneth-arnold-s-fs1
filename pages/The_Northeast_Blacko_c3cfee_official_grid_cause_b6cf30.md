@@ -234,6 +234,7 @@ next_link:
   short_title: Myth vs Evidence
   heading_title: Why the Blackout Became UFO Folklore
 date: '2026-06-11 18:31:08 '
+last_modified_at: '2026-06-11 18:31:08 '
 header:
   og_image: /assets/images/The_Northeast_Blacko_c3cfee_official_grid_cause_b6cf30-Illustration-1-social.jpg
   preview_image: /assets/images/The_Northeast_Blacko_c3cfee_official_grid_cause_b6cf30-Illustration-1.webp

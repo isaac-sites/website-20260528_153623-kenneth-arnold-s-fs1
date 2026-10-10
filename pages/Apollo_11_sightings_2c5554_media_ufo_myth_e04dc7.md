@@ -234,6 +234,7 @@ prev_link:
   short_title: Light Flashes
   heading_title: Why Did Apollo 11 Astronauts See Flashes?
 date: '2026-06-11 18:30:23 '
+last_modified_at: '2026-06-11 18:30:23 '
 header:
   og_image: /assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustration-1-social.jpg
   preview_image: /assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustration-1.webp

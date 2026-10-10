@@ -234,6 +234,7 @@ next_link:
   short_title: Claims
   heading_title: Did Tunguska Have a Hidden Crater?
 date: '2026-06-11 18:25:51 '
+last_modified_at: '2026-06-11 18:25:51 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f_airburst_missing_cra_2622b3-Illustration-1-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f_airburst_missing_cra_2622b3-Illustration-1.webp

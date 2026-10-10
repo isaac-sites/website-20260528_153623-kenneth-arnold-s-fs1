@@ -234,6 +234,7 @@ next_link:
   short_title: Hypnosis
   heading_title: Can Hypnosis Recover Alien Memories?
 date: '2026-06-11 18:24:30 '
+last_modified_at: '2026-06-11 18:24:30 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1.webp

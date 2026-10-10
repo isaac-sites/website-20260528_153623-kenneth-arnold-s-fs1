@@ -234,6 +234,7 @@ next_link:
   short_title: Sun Miracle
   heading_title: Did the Sun Really Dance at Fatima?
 date: '2026-06-11 18:28:51 '
+last_modified_at: '2026-06-11 18:28:51 '
 header:
   og_image: /assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1-social.jpg
   preview_image: /assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1.webp

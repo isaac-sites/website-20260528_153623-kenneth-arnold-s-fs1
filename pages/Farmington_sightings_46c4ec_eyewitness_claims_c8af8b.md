@@ -234,6 +234,7 @@ prev_link:
   short_title: Timeline
   heading_title: How the Farmington Sightings Unfolded
 date: '2026-06-11 18:36:19 '
+last_modified_at: '2026-06-11 18:36:19 '
 header:
   og_image: /assets/images/Farmington_sightings_46c4ec_eyewitness_claims_c8af8b-Illustration-1-social.jpg
   preview_image: /assets/images/Farmington_sightings_46c4ec_eyewitness_claims_c8af8b-Illustration-1.webp

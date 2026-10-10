@@ -234,6 +234,7 @@ next_link:
   short_title: Official Inquiry
   heading_title: Scientific and Military Handling of Cisco Grove UFO
 date: '2026-06-11 18:34:09 '
+last_modified_at: '2026-06-11 18:34:09 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a_physical_documentary_63d428-Illustration-1-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a_physical_documentary_63d428-Illustration-1.webp

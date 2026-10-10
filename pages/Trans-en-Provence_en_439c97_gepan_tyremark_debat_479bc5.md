@@ -234,6 +234,7 @@ next_link:
   short_title: The Traces
   heading_title: Did the Physical Traces Prove Anything?
 date: '2026-06-11 18:32:42 '
+last_modified_at: '2026-06-11 18:32:42 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_gepan_tyremark_debat_479bc5-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_gepan_tyremark_debat_479bc5-Illustration-1.webp

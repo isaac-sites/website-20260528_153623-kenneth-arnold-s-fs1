@@ -750,6 +750,7 @@ next_link:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 date: '2026-06-11 18:33:24 '
+last_modified_at: '2026-06-11 18:33:24 '
 header:
   og_image: /assets/images/Gary_Wilcox_encounte_6de9ff-overview-social.jpg
   preview_image: /assets/images/Gary_Wilcox_encounte_6de9ff-overview.webp

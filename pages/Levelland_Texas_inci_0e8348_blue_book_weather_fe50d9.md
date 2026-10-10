@@ -234,6 +234,7 @@ next_link:
   short_title: Critics
   heading_title: Why Scientists Challenged the Official Answer
 date: '2026-06-11 18:26:17 '
+last_modified_at: '2026-06-11 18:26:17 '
 header:
   og_image: /assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-1-social.jpg
   preview_image: /assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-1.webp

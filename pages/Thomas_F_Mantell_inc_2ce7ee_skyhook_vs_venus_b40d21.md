@@ -234,6 +234,7 @@ next_link:
   short_title: Final Flight
   heading_title: How the Pursuit Became a Fatal Crash
 date: '2026-06-11 18:25:13 '
+last_modified_at: '2026-06-11 18:25:13 '
 header:
   og_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_skyhook_vs_venus_b40d21-Illustration-1-social.jpg
   preview_image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_skyhook_vs_venus_b40d21-Illustration-1.webp

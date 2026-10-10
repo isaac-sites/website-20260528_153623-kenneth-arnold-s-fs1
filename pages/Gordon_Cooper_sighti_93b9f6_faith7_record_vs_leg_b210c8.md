@@ -234,6 +234,7 @@ next_link:
   short_title: Fireflies
   heading_title: Were Cooper's Fireflies Really UFOs?
 date: '2026-06-11 18:34:04 '
+last_modified_at: '2026-06-11 18:34:04 '
 header:
   og_image: /assets/images/Gordon_Cooper_sighti_93b9f6_faith7_record_vs_leg_b210c8-Illustration-1-social.jpg
   preview_image: /assets/images/Gordon_Cooper_sighti_93b9f6_faith7_record_vs_leg_b210c8-Illustration-1.webp

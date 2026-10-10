@@ -750,6 +750,7 @@ next_link:
   permalink: /red-bluff-sighting-1960/
   short_title: Red Bluff UFO
 date: '2026-06-11 18:31:18 '
+last_modified_at: '2026-06-11 18:31:18 '
 header:
   og_image: /assets/images/RB-47_radarvisual_in_5bf2a6-overview-social.jpg
   preview_image: /assets/images/RB-47_radarvisual_in_5bf2a6-overview.webp

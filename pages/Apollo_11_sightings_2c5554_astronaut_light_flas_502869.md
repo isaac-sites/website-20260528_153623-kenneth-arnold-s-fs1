@@ -240,6 +240,7 @@ next_link:
   short_title: Media Myth
   heading_title: How Apollo 11 Became a UFO Legend
 date: '2026-06-11 18:30:25 '
+last_modified_at: '2026-06-11 18:30:25 '
 header:
   og_image: /assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1-social.jpg
   preview_image: /assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1.webp

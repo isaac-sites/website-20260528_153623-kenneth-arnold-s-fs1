@@ -234,6 +234,7 @@ prev_link:
   short_title: Officers
   heading_title: Why Did the Officers' Account Matter?
 date: '2026-06-11 18:35:57 '
+last_modified_at: '2026-06-11 18:35:57 '
 header:
   og_image: /assets/images/Red_Bluff_sighting_1_f72200_radar_dispute_d87098-Illustration-1-social.jpg
   preview_image: /assets/images/Red_Bluff_sighting_1_f72200_radar_dispute_d87098-Illustration-1.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /belgium-radarvisual-sightings-1989/
   short_title: Belgium UFO Wave
 date: '2026-06-11 18:36:06 '
+last_modified_at: '2026-06-11 18:36:06 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e-overview-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e-overview.webp

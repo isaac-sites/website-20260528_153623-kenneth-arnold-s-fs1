@@ -234,6 +234,7 @@ prev_link:
   short_title: Explanations
   heading_title: Natural Causes or Something Still Unresolved?
 date: '2026-06-11 18:30:41 '
+last_modified_at: '2026-06-11 18:30:41 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /socorro-sighting-by-lonnie-zamora-1964/
   short_title: Socorro UFO
 date: '2026-06-11 18:33:37 '
+last_modified_at: '2026-06-11 18:33:37 '
 header:
   og_image: /assets/images/Salem_Massachusetts_01ecd1-overview-social.jpg
   preview_image: /assets/images/Salem_Massachusetts_01ecd1-overview.webp

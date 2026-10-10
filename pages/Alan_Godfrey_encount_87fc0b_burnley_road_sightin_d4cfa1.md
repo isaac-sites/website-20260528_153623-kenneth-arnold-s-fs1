@@ -240,6 +240,7 @@ next_link:
   short_title: Todmorden Link
   heading_title: Did Adamski's Death Change the UFO Story?
 date: '2026-06-11 18:30:35 '
+last_modified_at: '2026-06-11 18:30:35 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1.webp

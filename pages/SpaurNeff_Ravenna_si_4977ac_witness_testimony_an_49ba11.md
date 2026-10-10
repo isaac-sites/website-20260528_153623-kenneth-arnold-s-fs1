@@ -234,6 +234,7 @@ prev_link:
   short_title: Photograph Debate
   heading_title: Do the Ravenna UFO Photographs Prove an Unknown Object?
 date: '2026-06-11 18:33:35 '
+last_modified_at: '2026-06-11 18:33:35 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_witness_testimony_an_49ba11-Illustration-1-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_witness_testimony_an_49ba11-Illustration-1.webp

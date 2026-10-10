@@ -240,6 +240,7 @@ next_link:
   short_title: Shrum s Encounter
   heading_title: Inside Donald Shrum's Night in the Tree
 date: '2026-06-11 18:34:07 '
+last_modified_at: '2026-06-11 18:34:07 '
 header:
   og_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-social.jpg
   preview_image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Report
   heading_title: How Strong Was Carter's UFO Report?
 date: '2026-06-11 18:28:15 '
+last_modified_at: '2026-06-11 18:28:15 '
 header:
   og_image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-social.jpg
   preview_image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1.webp

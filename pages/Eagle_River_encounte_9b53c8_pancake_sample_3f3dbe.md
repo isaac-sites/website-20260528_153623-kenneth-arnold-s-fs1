@@ -240,6 +240,7 @@ next_link:
   short_title: The Witness
   heading_title: Was Joe Simonton A Reliable Witness?
 date: '2026-06-11 18:29:32 '
+last_modified_at: '2026-06-11 18:29:32 '
 header:
   og_image: /assets/images/Eagle_River_encounte_9b53c8_pancake_sample_3f3dbe-Illustration-1-social.jpg
   preview_image: /assets/images/Eagle_River_encounte_9b53c8_pancake_sample_3f3dbe-Illustration-1.webp

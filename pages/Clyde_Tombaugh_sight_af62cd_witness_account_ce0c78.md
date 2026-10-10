@@ -234,6 +234,7 @@ prev_link:
   short_title: Retellings
   heading_title: How a Faint Sighting Became a UFO Ship
 date: '2026-06-11 18:29:22 '
+last_modified_at: '2026-06-11 18:29:22 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1.webp

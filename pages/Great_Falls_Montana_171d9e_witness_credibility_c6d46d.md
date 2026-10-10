@@ -234,6 +234,7 @@ prev_link:
   short_title: Missing Frames
   heading_title: Did the Clearest Frames Disappear?
 date: '2026-06-11 18:29:12 '
+last_modified_at: '2026-06-11 18:29:12 '
 header:
   og_image: /assets/images/Great_Falls_Montana_171d9e_witness_credibility_c6d46d-Illustration-1-social.jpg
   preview_image: /assets/images/Great_Falls_Montana_171d9e_witness_credibility_c6d46d-Illustration-1.webp

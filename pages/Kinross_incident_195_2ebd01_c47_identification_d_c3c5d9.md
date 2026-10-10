@@ -234,6 +234,7 @@ next_link:
   short_title: Final Flight
   heading_title: How Did Avenger Red Vanish?
 date: '2026-06-11 18:30:19 '
+last_modified_at: '2026-06-11 18:30:19 '
 header:
   og_image: /assets/images/Kinross_incident_195_2ebd01_c47_identification_d_c3c5d9-Illustration-1-social.jpg
   preview_image: /assets/images/Kinross_incident_195_2ebd01_c47_identification_d_c3c5d9-Illustration-1.webp

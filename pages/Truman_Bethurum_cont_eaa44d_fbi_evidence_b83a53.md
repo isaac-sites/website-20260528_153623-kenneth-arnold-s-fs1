@@ -240,6 +240,7 @@ next_link:
   short_title: Public Trail
   heading_title: How a Desert Story Became a Public Case
 date: '2026-06-11 18:28:43 '
+last_modified_at: '2026-06-11 18:28:43 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d_fbi_evidence_b83a53-Illustration-1.webp

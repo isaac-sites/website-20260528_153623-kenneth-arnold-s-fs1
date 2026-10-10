@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: What Happened That January Night?
 date: '2026-06-11 18:26:37 '
+last_modified_at: '2026-06-11 18:26:37 '
 header:
   og_image: /assets/images/Andreasson_abduction_e8bccf_hypnosis_testimony_fe9967-Illustration-1-social.jpg
   preview_image: /assets/images/Andreasson_abduction_e8bccf_hypnosis_testimony_fe9967-Illustration-1.webp

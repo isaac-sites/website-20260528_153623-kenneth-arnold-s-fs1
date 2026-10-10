@@ -750,6 +750,7 @@ next_link:
   permalink: /george-adamski-encounters-1953/
   short_title: Adamski
 date: '2026-06-11 18:34:25 '
+last_modified_at: '2026-06-11 18:34:25 '
 header:
   og_image: /assets/images/Gemini_7_sighting_19_7caf7b-overview-social.jpg
   preview_image: /assets/images/Gemini_7_sighting_19_7caf7b-overview.webp

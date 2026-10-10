@@ -240,6 +240,7 @@ next_link:
   short_title: Optical Effects
   heading_title: How Night Vision and Camera Artifacts Created Pyramid Shapes
 date: '2026-06-11 18:39:34 '
+last_modified_at: '2026-06-11 18:39:34 '
 header:
   og_image: /assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /linda-cortile-abduction-1989/
   short_title: Cortile Case
 date: '2026-06-11 18:26:15 '
+last_modified_at: '2026-06-11 18:26:15 '
 header:
   og_image: /assets/images/Levelland_Texas_inci_0e8348-overview-social.jpg
   preview_image: /assets/images/Levelland_Texas_inci_0e8348-overview.webp

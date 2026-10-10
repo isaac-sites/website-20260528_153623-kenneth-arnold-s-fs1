@@ -240,6 +240,7 @@ next_link:
   short_title: Video illusions
   heading_title: Why Infrared Footage Can Fool Viewers
 date: '2026-06-11 18:39:16 '
+last_modified_at: '2026-06-11 18:39:16 '
 header:
   og_image: /assets/images/Puerto_Rico_infrared_d310d5_scu_unresolved_case_abe4ce-Illustration-1-social.jpg
   preview_image: /assets/images/Puerto_Rico_infrared_d310d5_scu_unresolved_case_abe4ce-Illustration-1.webp

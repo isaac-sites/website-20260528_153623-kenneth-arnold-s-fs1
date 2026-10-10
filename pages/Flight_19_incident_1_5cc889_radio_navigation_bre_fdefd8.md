@@ -240,6 +240,7 @@ next_link:
   short_title: Rescue Plane
   heading_title: What Happened to the Rescue Plane?
 date: '2026-06-11 18:29:53 '
+last_modified_at: '2026-06-11 18:29:53 '
 header:
   og_image: /assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1-social.jpg
   preview_image: /assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1.webp

@@ -234,6 +234,7 @@ prev_link:
   short_title: Hoax Theory
   heading_title: Was the Aurora Crash a Newspaper Hoax?
 date: '2026-06-11 18:32:29 '
+last_modified_at: '2026-06-11 18:32:29 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Illustration-1-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Illustration-1.webp

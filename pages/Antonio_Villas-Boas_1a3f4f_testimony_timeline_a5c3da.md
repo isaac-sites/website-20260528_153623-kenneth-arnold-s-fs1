@@ -234,6 +234,7 @@ prev_link:
   short_title: Sceptics
   heading_title: Was the Case Shaped by UFO Culture?
 date: '2026-06-11 18:31:32 '
+last_modified_at: '2026-06-11 18:31:32 '
 header:
   og_image: /assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1-social.jpg
   preview_image: /assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1.webp

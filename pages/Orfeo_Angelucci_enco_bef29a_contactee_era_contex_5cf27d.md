@@ -234,6 +234,7 @@ next_link:
   short_title: First Contact
   heading_title: What Did Angelucci Say Happened First?
 date: '2026-06-11 18:30:54 '
+last_modified_at: '2026-06-11 18:30:54 '
 header:
   og_image: /assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-1-social.jpg
   preview_image: /assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-1.webp

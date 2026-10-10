@@ -234,6 +234,7 @@ prev_link:
   short_title: Test Range
   heading_title: Was the Arrey UFO Part of Test Range Activity?
 date: '2026-06-11 18:32:50 '
+last_modified_at: '2026-06-11 18:32:50 '
 header:
   og_image: /assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1.webp

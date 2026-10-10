@@ -234,6 +234,7 @@ prev_link:
   short_title: Hoax Theory
   heading_title: Could It Have Been a Hanging Model?
 date: '2026-06-11 18:31:54 '
+last_modified_at: '2026-06-11 18:31:54 '
 header:
   og_image: /assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1-social.jpg
   preview_image: /assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1.webp

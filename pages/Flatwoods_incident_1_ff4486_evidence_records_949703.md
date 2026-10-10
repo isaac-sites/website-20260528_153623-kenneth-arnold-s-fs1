@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: Who Saw What on the Hill?
 date: '2026-06-11 18:28:54 '
+last_modified_at: '2026-06-11 18:28:54 '
 header:
   og_image: /assets/images/Flatwoods_incident_1_ff4486_evidence_records_949703-Illustration-1-social.jpg
   preview_image: /assets/images/Flatwoods_incident_1_ff4486_evidence_records_949703-Illustration-1.webp

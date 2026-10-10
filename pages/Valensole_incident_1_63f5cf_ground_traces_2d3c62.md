@@ -240,6 +240,7 @@ next_link:
   short_title: The Witness
   heading_title: How Reliable Was Maurice Masse's Story?
 date: '2026-06-11 18:31:58 '
+last_modified_at: '2026-06-11 18:31:58 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-1-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-1.webp

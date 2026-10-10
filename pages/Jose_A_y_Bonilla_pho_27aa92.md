@@ -750,6 +750,7 @@ next_link:
   permalink: /kelly-hopkinsville-incident-1955/
   short_title: Kelly Hopkinsville
 date: '2026-06-11 18:34:54 '
+last_modified_at: '2026-06-11 18:34:54 '
 header:
   og_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92-overview-social.jpg
   preview_image: /assets/images/Jose_A_y_Bonilla_pho_27aa92-overview.webp

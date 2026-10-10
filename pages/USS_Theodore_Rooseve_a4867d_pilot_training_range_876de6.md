@@ -240,6 +240,7 @@ next_link:
   short_title: Video Limits
   heading_title: What the 34 Second Clip Can Prove
 date: '2026-06-11 18:38:57 '
+last_modified_at: '2026-06-11 18:38:57 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_a4867d_pilot_training_range_876de6-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_a4867d_pilot_training_range_876de6-Illustration-1.webp

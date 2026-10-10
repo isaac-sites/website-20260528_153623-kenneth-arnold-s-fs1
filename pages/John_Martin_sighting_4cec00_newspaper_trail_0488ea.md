@@ -240,6 +240,7 @@ next_link:
   short_title: The Witness
   heading_title: What Did John Martin Really See?
 date: '2026-06-11 18:30:49 '
+last_modified_at: '2026-06-11 18:30:49 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1.webp

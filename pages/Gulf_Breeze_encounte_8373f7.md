@@ -750,6 +750,7 @@ next_link:
   permalink: /herbert-schirmer-abduction-1967/
   short_title: Schirmer UFO
 date: '2026-06-11 18:26:50 '
+last_modified_at: '2026-06-11 18:26:50 '
 header:
   og_image: /assets/images/Gulf_Breeze_encounte_8373f7-overview-social.jpg
   preview_image: /assets/images/Gulf_Breeze_encounte_8373f7-overview.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /cynthia-appleton-encounter-1957/
   short_title: Appleton Encounter
 date: '2026-06-11 18:27:05 '
+last_modified_at: '2026-06-11 18:27:05 '
 header:
   og_image: /assets/images/Coyne_helicopter_sig_5ce811-overview-social.jpg
   preview_image: /assets/images/Coyne_helicopter_sig_5ce811-overview.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /tremonton-utah-film-1952/
   short_title: Tremonton UFO
 date: '2026-06-11 18:25:37 '
+last_modified_at: '2026-06-11 18:25:37 '
 header:
   og_image: /assets/images/Travis_Walton_abduct_612999-overview-social.jpg
   preview_image: /assets/images/Travis_Walton_abduct_612999-overview.webp

@@ -750,6 +750,7 @@ next_link:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 date: '2026-06-11 18:28:13 '
+last_modified_at: '2026-06-11 18:28:13 '
 header:
   og_image: /assets/images/Jimmy_Carter_sightin_759215-overview-social.jpg
   preview_image: /assets/images/Jimmy_Carter_sightin_759215-overview.webp

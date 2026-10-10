@@ -240,6 +240,7 @@ next_link:
   short_title: Witnesses
   heading_title: Why Did the Exeter Witnesses Matter?
 date: '2026-06-11 18:32:20 '
+last_modified_at: '2026-06-11 18:32:20 '
 header:
   og_image: /assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-1-social.jpg
   preview_image: /assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-1.webp

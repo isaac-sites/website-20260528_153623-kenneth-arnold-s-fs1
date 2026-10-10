@@ -234,6 +234,7 @@ next_link:
   short_title: F 16 Radar
   heading_title: Did Belgian F 16 s Track a UFO?
 date: '2026-06-11 18:29:01 '
+last_modified_at: '2026-06-11 18:29:01 '
 header:
   og_image: /assets/images/Belgium_radarvisual_58866e_eupen_witness_wave_5fef62-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_radarvisual_58866e_eupen_witness_wave_5fef62-Illustration-1.webp

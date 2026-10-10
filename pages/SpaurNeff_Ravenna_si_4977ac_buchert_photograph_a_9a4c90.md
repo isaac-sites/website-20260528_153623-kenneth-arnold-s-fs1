@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Testimony
   heading_title: How Credible Were the Ravenna UFO Witnesses?
 date: '2026-06-11 18:33:32 '
+last_modified_at: '2026-06-11 18:33:32 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90-Illustration-1-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_buchert_photograph_a_9a4c90-Illustration-1.webp

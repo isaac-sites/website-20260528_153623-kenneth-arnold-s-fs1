@@ -750,6 +750,7 @@ next_link:
   permalink: /muroc-field-sightings-1947/
   short_title: Muroc Saucers
 date: '2026-06-11 18:39:16 '
+last_modified_at: '2026-06-11 18:39:16 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55-overview-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55-overview.webp

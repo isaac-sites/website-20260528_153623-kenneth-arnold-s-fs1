@@ -234,6 +234,7 @@ prev_link:
   short_title: Evidence Check
   heading_title: Did the FBI Validate Bethurum's Saucer Claim?
 date: '2026-06-11 18:28:46 '
+last_modified_at: '2026-06-11 18:28:46 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1.webp

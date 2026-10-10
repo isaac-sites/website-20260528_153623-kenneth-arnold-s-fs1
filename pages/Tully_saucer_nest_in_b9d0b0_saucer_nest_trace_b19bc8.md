@@ -240,6 +240,7 @@ next_link:
   short_title: Witness Account
   heading_title: George Pedley's Tully UFO Sighting Explained
 date: '2026-06-11 18:36:30 '
+last_modified_at: '2026-06-11 18:36:30 '
 header:
   og_image: /assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1-social.jpg
   preview_image: /assets/images/Tully_saucer_nest_in_b9d0b0_saucer_nest_trace_b19bc8-Illustration-1.webp

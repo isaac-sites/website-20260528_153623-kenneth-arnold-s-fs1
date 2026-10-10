@@ -750,6 +750,7 @@ next_link:
   permalink: /carl-higdon-contact-1974/
   short_title: Higdon Contact
 date: '2026-06-11 18:29:36 '
+last_modified_at: '2026-06-11 18:29:36 '
 header:
   og_image: /assets/images/BOAC_stratocruiser_s_01e20e-overview-social.jpg
   preview_image: /assets/images/BOAC_stratocruiser_s_01e20e-overview.webp

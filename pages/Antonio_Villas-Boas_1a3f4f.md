@@ -750,6 +750,7 @@ next_link:
   permalink: /apollo-11-sightings-1969/
   short_title: Apollo 11 Sightings
 date: '2026-06-11 18:31:31 '
+last_modified_at: '2026-06-11 18:31:31 '
 header:
   og_image: /assets/images/Antonio_Villas-Boas_1a3f4f-overview-social.jpg
   preview_image: /assets/images/Antonio_Villas-Boas_1a3f4f-overview.webp

@@ -234,6 +234,7 @@ next_link:
   short_title: Source Trail
   heading_title: How Solid Is the 1878 Paper Trail?
 date: '2026-06-11 18:30:52 '
+last_modified_at: '2026-06-11 18:30:52 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1.webp

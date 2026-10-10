@@ -240,6 +240,7 @@ next_link:
   short_title: USS Roosevelt Photos
   heading_title: Do USS Franklin D. Roosevelt UFO Photos Reveal a Balloon or Something Else?
 date: '2026-06-11 18:35:42 '
+last_modified_at: '2026-06-11 18:35:42 '
 header:
   og_image: /assets/images/Operation_Mainbrace_06bcd8_raf_topcliffe_sighti_ef5ce0-Illustration-1-social.jpg
   preview_image: /assets/images/Operation_Mainbrace_06bcd8_raf_topcliffe_sighti_ef5ce0-Illustration-1.webp

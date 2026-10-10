@@ -234,6 +234,7 @@ prev_link:
   short_title: Testing Claims
   heading_title: Did the Investigation Shape the Story?
 date: '2026-06-11 18:32:53 '
+last_modified_at: '2026-06-11 18:32:53 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1.webp

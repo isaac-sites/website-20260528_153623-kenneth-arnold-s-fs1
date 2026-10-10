@@ -240,6 +240,7 @@ next_link:
   short_title: Space Journey
   heading_title: Inside Angelucci's Claimed Journey Into Space
 date: '2026-06-11 18:30:59 '
+last_modified_at: '2026-06-11 18:30:59 '
 header:
   og_image: /assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-1-social.jpg
   preview_image: /assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-1.webp

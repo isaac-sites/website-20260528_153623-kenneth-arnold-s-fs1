@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How the Villas Boas Story Unfolded
 date: '2026-06-11 18:31:35 '
+last_modified_at: '2026-06-11 18:31:35 '
 header:
   og_image: /assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-1-social.jpg
   preview_image: /assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-1.webp

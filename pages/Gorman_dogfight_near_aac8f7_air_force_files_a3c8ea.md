@@ -234,6 +234,7 @@ next_link:
   short_title: Explanations
   heading_title: Was the UFO Really a Balloon?
 date: '2026-06-11 18:28:20 '
+last_modified_at: '2026-06-11 18:28:20 '
 header:
   og_image: /assets/images/Gorman_dogfight_near_aac8f7_air_force_files_a3c8ea-Illustration-1-social.jpg
   preview_image: /assets/images/Gorman_dogfight_near_aac8f7_air_force_files_a3c8ea-Illustration-1.webp

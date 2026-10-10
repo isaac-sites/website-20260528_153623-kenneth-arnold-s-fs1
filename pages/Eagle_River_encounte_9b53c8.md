@@ -750,6 +750,7 @@ next_link:
   permalink: /farmington-sightings-1950/
   short_title: Farmington Armada
 date: '2026-06-11 18:29:31 '
+last_modified_at: '2026-06-11 18:29:31 '
 header:
   og_image: /assets/images/Eagle_River_encounte_9b53c8-overview-social.jpg
   preview_image: /assets/images/Eagle_River_encounte_9b53c8-overview.webp

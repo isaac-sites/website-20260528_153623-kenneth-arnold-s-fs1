@@ -234,6 +234,7 @@ next_link:
   short_title: Timeline
   heading_title: How the Muroc Sightings Unfolded
 date: '2026-06-11 18:33:17 '
+last_modified_at: '2026-06-11 18:33:17 '
 header:
   og_image: /assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Illustration-1-social.jpg
   preview_image: /assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Illustration-1.webp

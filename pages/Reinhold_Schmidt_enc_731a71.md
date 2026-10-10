@@ -750,6 +750,7 @@ next_link:
   permalink: /rendlesham-forest-incident-1980/
   short_title: Rendlesham
 date: '2026-06-11 18:33:42 '
+last_modified_at: '2026-06-11 18:33:42 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: UFO Evidence
   heading_title: How Strong Is the Walesville UFO Evidence?
 date: '2026-06-11 18:35:54 '
+last_modified_at: '2026-06-11 18:35:54 '
 header:
   og_image: /assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-1-social.jpg
   preview_image: /assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-1.webp

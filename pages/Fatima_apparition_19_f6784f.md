@@ -750,6 +750,7 @@ next_link:
   permalink: /flatwoods-incident-1952/
   short_title: Flatwoods
 date: '2026-06-11 18:28:47 '
+last_modified_at: '2026-06-11 18:28:47 '
 header:
   og_image: /assets/images/Fatima_apparition_19_f6784f-overview-social.jpg
   preview_image: /assets/images/Fatima_apparition_19_f6784f-overview.webp

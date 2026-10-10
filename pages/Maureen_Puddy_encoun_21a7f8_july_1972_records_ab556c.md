@@ -234,6 +234,7 @@ next_link:
   short_title: Explanations
   heading_title: What Evidence Can the Puddy Case Carry?
 date: '2026-06-11 18:33:55 '
+last_modified_at: '2026-06-11 18:33:55 '
 header:
   og_image: /assets/images/Maureen_Puddy_encoun_21a7f8_july_1972_records_ab556c-Illustration-1-social.jpg
   preview_image: /assets/images/Maureen_Puddy_encoun_21a7f8_july_1972_records_ab556c-Illustration-1.webp

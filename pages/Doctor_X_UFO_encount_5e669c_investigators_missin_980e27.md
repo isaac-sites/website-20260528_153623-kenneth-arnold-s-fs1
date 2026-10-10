@@ -240,6 +240,7 @@ next_link:
   short_title: Sighting
   heading_title: What Did Doctor X Say He Saw?
 date: '2026-06-11 18:33:51 '
+last_modified_at: '2026-06-11 18:33:51 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1.webp

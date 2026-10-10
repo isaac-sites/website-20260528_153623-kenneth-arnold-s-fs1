@@ -240,6 +240,7 @@ next_link:
   short_title: Trance Episode
   heading_title: Was the 1973 Encounter Physical or Mental?
 date: '2026-06-11 18:33:58 '
+last_modified_at: '2026-06-11 18:33:58 '
 header:
   og_image: /assets/images/Maureen_Puddy_encoun_21a7f8_corroboration_explan_7983ee-Illustration-1-social.jpg
   preview_image: /assets/images/Maureen_Puddy_encoun_21a7f8_corroboration_explan_7983ee-Illustration-1.webp

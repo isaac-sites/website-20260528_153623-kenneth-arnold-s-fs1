@@ -240,6 +240,7 @@ next_link:
   short_title: Radar Record
   heading_title: Did Radar Really Confirm JAL 1628?
 date: '2026-06-11 18:35:38 '
+last_modified_at: '2026-06-11 18:35:38 '
 header:
   og_image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1.webp

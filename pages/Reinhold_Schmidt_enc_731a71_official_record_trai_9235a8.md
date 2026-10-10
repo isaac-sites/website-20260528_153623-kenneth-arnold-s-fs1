@@ -240,6 +240,7 @@ next_link:
   short_title: The Claim
   heading_title: What Did Schmidt Say He Saw?
 date: '2026-06-11 18:33:47 '
+last_modified_at: '2026-06-11 18:33:47 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71_official_record_trai_9235a8-Illustration-1.webp

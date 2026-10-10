@@ -234,6 +234,7 @@ prev_link:
   short_title: Hoax Claims
   heading_title: How Did A Tall Tale Become UFO Folklore?
 date: '2026-06-11 18:26:58 '
+last_modified_at: '2026-06-11 18:26:58 '
 header:
   og_image: /assets/images/Alexander_Hamilton_a_75e894_heifer_story_timelin_de3d60-Illustration-1-social.jpg
   preview_image: /assets/images/Alexander_Hamilton_a_75e894_heifer_story_timelin_de3d60-Illustration-1.webp

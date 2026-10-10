@@ -240,6 +240,7 @@ next_link:
   short_title: Skeptical Views
   heading_title: Medical and Environmental Explanations for the Livingston UFO Sighting
 date: '2026-06-11 18:34:50 '
+last_modified_at: '2026-06-11 18:34:50 '
 header:
   og_image: /assets/images/Livingston_incident_b2c293_livingston_evidence_d465fa-Illustration-1-social.jpg
   preview_image: /assets/images/Livingston_incident_b2c293_livingston_evidence_d465fa-Illustration-1.webp

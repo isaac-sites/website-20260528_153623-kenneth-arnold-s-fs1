@@ -750,6 +750,7 @@ next_link:
   permalink: /aurora-texas-airship-crash-1897/
   short_title: Aurora Airship
 date: '2026-06-11 18:30:22 '
+last_modified_at: '2026-06-11 18:30:22 '
 header:
   og_image: /assets/images/Apollo_11_sightings_2c5554-overview-social.jpg
   preview_image: /assets/images/Apollo_11_sightings_2c5554-overview.webp

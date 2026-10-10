@@ -750,6 +750,7 @@ next_link:
   permalink: /clyde-tombaugh-sighting-1949/
   short_title: Tombaugh Sighting
 date: '2026-06-11 18:34:44 '
+last_modified_at: '2026-06-11 18:34:44 '
 header:
   og_image: /assets/images/Claude_Vorilhon_cont_ec941c-overview-social.jpg
   preview_image: /assets/images/Claude_Vorilhon_cont_ec941c-overview.webp

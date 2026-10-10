@@ -750,6 +750,7 @@ next_link:
   permalink: /battle-of-los-angeles-1942/
   short_title: Battle of Los Angeles
 date: '2026-06-11 18:32:25 '
+last_modified_at: '2026-06-11 18:32:25 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367-overview-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367-overview.webp

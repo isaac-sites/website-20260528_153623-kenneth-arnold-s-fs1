@@ -240,6 +240,7 @@ next_link:
   short_title: UFO Wave
   heading_title: How One Photo Story Became a Town UFO Wave
 date: '2026-06-11 18:26:55 '
+last_modified_at: '2026-06-11 18:26:55 '
 header:
   og_image: /assets/images/Gulf_Breeze_encounte_8373f7_walters_polaroids_10671b-Illustration-1-social.jpg
   preview_image: /assets/images/Gulf_Breeze_encounte_8373f7_walters_polaroids_10671b-Illustration-1.webp

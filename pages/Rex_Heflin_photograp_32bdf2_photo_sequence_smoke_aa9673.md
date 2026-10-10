@@ -234,6 +234,7 @@ next_link:
   short_title: Verdicts
   heading_title: Was Heflin Debunked or Left Unsolved?
 date: '2026-06-11 18:31:17 '
+last_modified_at: '2026-06-11 18:31:17 '
 header:
   og_image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-social.jpg
   preview_image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1.webp

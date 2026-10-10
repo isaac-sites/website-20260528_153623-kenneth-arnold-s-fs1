@@ -234,6 +234,7 @@ next_link:
   short_title: Hypnosis
   heading_title: Did Hypnosis Clarify or Complicate the Story?
 date: '2026-06-11 18:26:40 '
+last_modified_at: '2026-06-11 18:26:40 '
 header:
   og_image: /assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-1-social.jpg
   preview_image: /assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-1.webp

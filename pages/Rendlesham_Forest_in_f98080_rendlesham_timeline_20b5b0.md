@@ -234,6 +234,7 @@ prev_link:
   short_title: Explanations
   heading_title: Could Ordinary Lights Explain Rendlesham?
 date: '2026-06-11 18:26:24 '
+last_modified_at: '2026-06-11 18:26:24 '
 header:
   og_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_timeline_20b5b0-Illustration-1-social.jpg
   preview_image: /assets/images/Rendlesham_Forest_in_f98080_rendlesham_timeline_20b5b0-Illustration-1.webp

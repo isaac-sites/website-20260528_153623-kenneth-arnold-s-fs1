@@ -234,6 +234,7 @@ next_link:
   short_title: Timeline
   heading_title: Why the Date Changes the Case
 date: '2026-06-11 18:28:16 '
+last_modified_at: '2026-06-11 18:28:16 '
 header:
   og_image: /assets/images/Jimmy_Carter_sightin_759215_venus_barium_cloud_264393-Illustration-1-social.jpg
   preview_image: /assets/images/Jimmy_Carter_sightin_759215_venus_barium_cloud_264393-Illustration-1.webp

@@ -240,6 +240,7 @@ next_link:
   short_title: Timeline
   heading_title: How the Salem Photo Was Taken
 date: '2026-06-11 18:33:40 '
+last_modified_at: '2026-06-11 18:33:40 '
 header:
   og_image: /assets/images/Salem_Massachusetts_01ecd1_reflection_debate_898b88-Illustration-1-social.jpg
   preview_image: /assets/images/Salem_Massachusetts_01ecd1_reflection_debate_898b88-Illustration-1.webp

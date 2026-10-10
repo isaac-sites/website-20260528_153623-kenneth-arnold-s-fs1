@@ -234,6 +234,7 @@ prev_link:
   short_title: Photo Myth
   heading_title: Did The Famous Photo Show A Craft?
 date: '2026-06-11 18:36:08 '
+last_modified_at: '2026-06-11 18:36:08 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1.webp

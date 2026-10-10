@@ -750,6 +750,7 @@ next_link:
   permalink: /fred-m-johnson-sighting-1947/
   short_title: Johnson Sighting
 date: '2026-06-11 18:33:19 '
+last_modified_at: '2026-06-11 18:33:19 '
 header:
   og_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba-overview-social.jpg
   preview_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba-overview.webp

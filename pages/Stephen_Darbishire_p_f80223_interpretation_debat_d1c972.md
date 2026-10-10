@@ -232,6 +232,7 @@ next_link:
   short_title: Photo Evidence
   heading_title: What the Darbishire Photographs Reveal—and Conceal
 date: '2026-06-11 18:35:47 '
+last_modified_at: '2026-06-11 18:35:47 '
 header:
   og_image: /assets/images/Stephen_Darbishire_p_f80223_interpretation_debat_d1c972-Illustration-1-social.jpg
   preview_image: /assets/images/Stephen_Darbishire_p_f80223_interpretation_debat_d1c972-Illustration-1.webp
