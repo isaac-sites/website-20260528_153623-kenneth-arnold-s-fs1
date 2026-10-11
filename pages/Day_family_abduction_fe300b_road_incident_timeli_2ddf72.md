@@ -21,8 +21,8 @@ permalink: /timeline-b81f76/
 sidebar_expanded_urls:
 - /day-family-abduction-1974/
 nav_short_title: Timeline
-title: How the Missing Time Story Unfolded
-title_full: How the Missing Time Story Unfolded
+title: "How the Missing Time Story Unfolded - Day family abduction"
+title_full: "How the Missing Time Story Unfolded - Day family abduction"
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Missing Time Story Unfolded

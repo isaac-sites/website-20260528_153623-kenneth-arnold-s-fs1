@@ -21,8 +21,8 @@ permalink: /witnesses-65306f/
 sidebar_expanded_urls:
 - /pascagoula-abduction-1973/
 nav_short_title: Witnesses
-title: How Strong Were the Witness Accounts?
-title_full: How Strong Were the Witness Accounts?
+title: "How Strong Were the Witness Accounts? - Pascagoula abduction"
+title_full: "How Strong Were the Witness Accounts? - Pascagoula abduction"
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Were the Witness Accounts?
