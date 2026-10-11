@@ -21,8 +21,8 @@ permalink: /timeline-5e60b1/
 sidebar_expanded_urls:
 - /charles-l-moody-abduction-1975/
 nav_short_title: Timeline
-title: How the Missing Time Story Unfolded
-title_full: How the Missing Time Story Unfolded
+title: "How the Missing Time Story Unfolded - Charles L Moody abdu"
+title_full: "How the Missing Time Story Unfolded - Charles L Moody abdu"
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Missing Time Story Unfolded

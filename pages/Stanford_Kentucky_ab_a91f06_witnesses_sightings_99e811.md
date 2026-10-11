@@ -21,8 +21,8 @@ permalink: /witnesses-10676f/
 sidebar_expanded_urls:
 - /stanford-kentucky-abduction-1976/
 nav_short_title: Witnesses
-title: How Strong Were the Witness Accounts?
-title_full: How Strong Were the Witness Accounts?
+title: "How Strong Were the Witness Accounts? - Stanford Kentucky ab"
+title_full: "How Strong Were the Witness Accounts? - Stanford Kentucky ab"
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Were the Witness Accounts?
